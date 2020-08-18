@@ -19,7 +19,7 @@
 </p>
 
 
-- :mortar_board: Recent graduate with Bachelor's of Science in Computer Science
+- :mortar_board: Recent graduate with **Bachelor's of Science in Computer Science**
 - :computer: Currently working on a **Discord bot**
 - :seedling: Currently learning **Python** :snake:
 - :speech_balloon: Talk to me about **photography** :camera:
