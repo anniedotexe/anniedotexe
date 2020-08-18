@@ -1,25 +1,39 @@
-# Hi there, I'm [Annie](https://www.linkedin.com/in/anniewu2303/) :wave:	
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/anniewu2303/">Annie</a> :wave: </h1>
 
+<p align="center">
+  <a href="mailto:anniewu2303@gmail.com">
+    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anniewu2303/">
+    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=anniew_twt">
+    <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anniewu_photo/">
+    <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+- :mortar_board: Recent graduate with Bachelor's of Science in Computer Science
 - :computer: I’m currently working on a Discord bot
 - :seedling: I’m currently learning Python :snake:
 - :speech_balloon: Talk to me about photography :camera: and gaming :video_game:
 - :star: Pronouns: [she/her](https://www.mypronouns.org/she-her)
-- :watermelon: Fun fact: The shade of pink in the cards below is [Watermelon](https://www.schemecolor.com/sample?getcolor=f35588)
+- :game_die: Fun fact: The shade of pink in the cards below is named [Watermelon](https://www.schemecolor.com/sample?getcolor=f35588) or [French Rose](https://abouts.co/color/f35588)
 
-## Some of my GitHub Public Stats
+### Some of my GitHub Public Stats
 
-[![Annie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anniewu2303&title_color=F35588)](https://github.com/anniewu2303)
+[![Annie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173)](https://github.com/anniewu2303)
 
-## Recent Projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniewu2303&title_color=F35588)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Recent Projects
 
 [![Twitter Bot](https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=twitter-retweet-bot&title_color=F35588)](https://github.com/anniewu2303/Twitter-Retweet-Bot)
-
-## Where to Connect with Me :speech_balloon:
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anniewu2303@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anniewu2303/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=anniew_twt "Follow on Twitter")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anniewu_photo/ "Follow on Instagram")
 
 ---
 
