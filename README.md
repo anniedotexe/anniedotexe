@@ -1,7 +1,9 @@
 
 
 <p align="center">
-  <img alt="Annie Wu animated avg" src="https://raw.githubusercontent.com/gist/anniewu2303/c5c01ee2170ec18574f94d25461c5139/raw/68bf15c4964a95e3ff21a8dec49da1453a45c001/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
+  <a href="https://gist.github.com/anniewu2303/c5c01ee2170ec18574f94d25461c5139">
+    <img alt="Annie Wu animated avg" src="https://raw.githubusercontent.com/gist/anniewu2303/c5c01ee2170ec18574f94d25461c5139/raw/68bf15c4964a95e3ff21a8dec49da1453a45c001/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
+  </a>
 </p>
 
 <p align="center">
