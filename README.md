@@ -59,11 +59,16 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173)](https://github.com/anniewu2303)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent Projects
 
-[![Twitter Bot](https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=twitter-retweet-bot&title_color=F35588)](https://github.com/anniewu2303/Twitter-Retweet-Bot)
+<a href="https://github.com/anniewu2303/Twitter-Retweet-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=Twitter-Retweet-Bot" />
+</a>
+<a href="https://github.com/anniewu2303/Instagram-Like-Comment-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=Instagram-Like-Comment-Bot" />
+</a>
 
 ---
 
