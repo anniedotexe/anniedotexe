@@ -35,8 +35,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.anniewu2303.vercel.app/api/spotify-playing" alt="anniewu2303's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
-
+[<img src="https://novatorem.anniewu2303.vercel.app/api/spotify" alt="anniewu2303's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
 
 ### Languages and Technologies
 
@@ -48,7 +47,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff)
-
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
@@ -74,8 +72,7 @@
 <details>
   <summary>:watermelon: Github Stats</summary>
 
-  <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173" />
-
+  <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
 </details>
 
@@ -84,13 +81,6 @@
   <summary>:watermelon: Development Stats</summary>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-</details>
-
-
-<details>
-  <summary>:watermelon: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
 </details>
 
 
