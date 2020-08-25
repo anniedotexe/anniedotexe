@@ -76,6 +76,11 @@
 
 </details>
 
+<details>
+  <summary>:watermelon: Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
 <details>
   <summary>:watermelon: Development Stats</summary>
