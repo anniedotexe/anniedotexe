@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://gist.github.com/anniewu2303/c5c01ee2170ec18574f94d25461c5139">
     <img alt="Annie Wu animated avg" src="https://raw.githubusercontent.com/gist/anniewu2303/c5c01ee2170ec18574f94d25461c5139/raw/7152c0e8959bf9829416519fe38bdb795bdce36f/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
@@ -35,8 +33,12 @@
 - :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - :game_die: Fun fact: The shade of pink in the cards below is named [Watermelon](https://www.schemecolor.com/sample?getcolor=f35588) or [French Rose](https://abouts.co/color/f35588)
 
-### Languages and Technologies
+### Spotify Playing 🎧
 
+[<img src="https://novatorem.anniewu2303.vercel.app/api/spotify-playing" alt="anniewu2303's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
+
+
+### Languages and Technologies
 
 ![Java](http://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
@@ -58,9 +60,6 @@
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-
-[![GitHub Stats](https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Recent Projects
 
 <a href="https://github.com/anniewu2303/Twitter-Retweet-Bot">
@@ -72,8 +71,31 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anniewu2303" alt="anniewu2303" /> </p>
+<details>
+  <summary>:watermelon: Github Stats</summary>
 
-If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
+  <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173" />
+
+
+</details>
+
+
+<details>
+  <summary>:watermelon: Development Stats</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+
+<details>
+  <summary>:watermelon: Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
+
+---
+
+If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning: 
 
 <a href="https://www.buymeacoffee.com/awu2303" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
