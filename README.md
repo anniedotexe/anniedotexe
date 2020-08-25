@@ -84,13 +84,6 @@
 </details>
 
 
-<details>
-  <summary>:watermelon: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</details>
-
-
 ---
 
 If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning: 
