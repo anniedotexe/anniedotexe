@@ -72,7 +72,7 @@
 <details>
   <summary>:watermelon: Github Stats</summary>
 
-  <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173" />
+  <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
 </details>
 
