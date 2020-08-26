@@ -84,14 +84,10 @@
 
 <details>
   <summary>:watermelon: Development Stats</summary>
+  
   <!--START_SECTION:waka-->
   
-```text
-Python     1 hr 1 min      ██████████▓░░░░░░░░░░░░░░   42.05 % 
-Text       42 mins         ███████▒░░░░░░░░░░░░░░░░░   28.96 % 
-Markdown   38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
-YAML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-```
+
 
   <!--END_SECTION:waka-->
 
