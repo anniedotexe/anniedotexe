@@ -79,6 +79,7 @@
 <details>
   <summary>:watermelon: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com//anniewu2303/Instagram-Like-Comment-Bot/issues/1) in [anniewu2303/Instagram-Like-Comment-Bot](https://github.com//anniewu2303/Instagram-Like-Comment-Bot)
 <!--END_SECTION:activity-->
 
 </details>
