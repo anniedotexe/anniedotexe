@@ -61,7 +61,7 @@
 ### Recent Projects
 
 <a href="https://github.com/anniewu2303/RNN-Twitter-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=RNN-Twiter-Bot&title_color=F35588" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=RNN-Twitter-Bot&title_color=F35588" />
 </a>
 <a href="https://github.com/anniewu2303/Instagram-Like-Comment-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=Instagram-Like-Comment-Bot&title_color=F35588" />
