@@ -27,7 +27,7 @@
 
 
 - :mortar_board: Recent graduate with **Bachelor's of Science in Computer Science**
-- :computer: Currently working on a **Discord bot**
+- :computer: Currently working on a **Discord bot** and **CompTIA A+**
 - :seedling: Currently learning **Python** :snake:
 - :speech_balloon: Talk to me about nature, street, and urban **photography** :camera:
 - :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
