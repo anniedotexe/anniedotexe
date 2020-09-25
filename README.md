@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/anniewu2303/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=anniew_twt"> 
+  <a href="https://twitter.com/intent/follow?screen_name=anniedotexe"> 
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/anniewu_photo/"> 
