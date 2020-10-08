@@ -84,17 +84,6 @@
 
 </details>
 
-<details>
-  <summary>:watermelon: Development Stats</summary>
-  
-  <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-</details>
-
 
 ---
 
