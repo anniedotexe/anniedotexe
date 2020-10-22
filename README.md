@@ -31,7 +31,7 @@
 - :seedling: Currently learning **Python** :snake:
 - :speech_balloon: Talk to me about nature, street, and urban **photography** :camera:
 - :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
-- :game_die: Fun fact: The shade of pink in the cards below is named [Watermelon](https://www.schemecolor.com/sample?getcolor=f35588) or [French Rose](https://abouts.co/color/f35588)
+- :game_die: Fun fact: I animated the svg at the top of this page.
 
 ### Spotify Playing 🎧
 
