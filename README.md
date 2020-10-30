@@ -20,7 +20,7 @@
   <a href="https://www.flickr.com/people/anniewuphotos/"> 
     <img alt="Follow on Flickr" src="https://img.shields.io/badge/-Flickr-0063DC?style=flat&logo=flickr&logoColor=white" />
   </a>
-  <a href="https://www.twitch.tv/penguino1793"> 
+  <a href="https://www.twitch.tv/penguannie"> 
     <img alt="Follow on Twitch" src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white" />
   </a>
 </p>
