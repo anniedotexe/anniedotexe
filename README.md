@@ -14,7 +14,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=anniedotexe"> 
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/anniewu_photo/"> 
+  <a href="https://www.instagram.com/anniedotexe/"> 
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.flickr.com/people/anniewuphotos/"> 
