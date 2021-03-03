@@ -51,12 +51,13 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-0B0D0F?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom-cc&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Lightroom](http://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Adobe%20Illustrator-FC8F30?style=flat&logo=adobe-illustrator&logoColor=ffffff)
 
-![MS Access](http://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=ffffff)
+![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
+
 
 ### Recent Projects
 
