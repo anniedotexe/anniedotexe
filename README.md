@@ -27,7 +27,7 @@
 
 
 - :mortar_board: Recent graduate with **B.S. in Computer Science**
-- :computer: Currently working on **CompTIA A+** and my **[website](https://anniew.xyz/)**
+- :computer: Currently working on **CompTIA A+** 
 - :seedling: Currently learning **Python** :snake:
 - :speech_balloon: Talk to me about nature, street, and urban **photography** :camera:
 - :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
@@ -43,6 +43,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat&logo=apache-maven&logoColor=ffffff)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=ffffff)
