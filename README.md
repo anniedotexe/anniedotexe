@@ -31,7 +31,7 @@
 - :seedling: Currently learning **Python** and **frontend**
 - :speech_balloon: Talk to me about nature, street, and urban **photography** :camera:
 - :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
-- :game_die: Fun fact: I animated the svg at the top of this page with CSS
+- :game_die: Fun fact: I animated the svg at the top of this page with pure CSS
 - :palm_tree: Check out my personal website **[anniew.xyz](https://anniew.xyz/)**
 
 ### Spotify Now Playing 🎧
