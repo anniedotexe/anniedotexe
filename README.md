@@ -27,8 +27,8 @@
 
 
 - :mortar_board: Recent graduate with **B.S. in Computer Science**
-- :computer: Currently working on **[Twitcord](https://github.com/anniewu2303/twitcord)**
-- :seedling: Currently learning **Python** :snake:
+- :computer: Currently working on frontend dev things
+- :seedling: Currently learning **Python** and **frontend**
 - :speech_balloon: Talk to me about nature, street, and urban **photography** :camera:
 - :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - :game_die: Fun fact: I animated the svg at the top of this page with CSS
