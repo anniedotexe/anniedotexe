@@ -62,16 +62,6 @@
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-
-### Recent Projects
-
-<a href="https://github.com/anniewu2303/RNN-Twitter-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=RNN-Twitter-Bot&title_color=F35588" />
-</a>
-<a href="https://github.com/anniewu2303/Instagram-Like-Comment-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anniewu2303&repo=Instagram-Like-Comment-Bot&title_color=F35588" />
-</a>
-
 ---
 
 <details>
