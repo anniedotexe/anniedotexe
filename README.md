@@ -11,7 +11,10 @@
   <a href="https://www.linkedin.com/in/anniewu2303/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=anniedotexe"> 
+  <a href="https://dev.to/anniedotexe"> 
+    <img alt="Follow on DEV" src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=Dev.to&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/anniedotexe"> 
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/anniedotexe/"> 
@@ -24,7 +27,6 @@
     <img alt="Follow on Twitch" src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white" />
   </a>
 </p>
-
 
 - :mortar_board: Recent graduate with **B.S. in Computer Science**
 - :computer: Currently working on frontend dev things
@@ -65,21 +67,23 @@
 ---
 
 <details>
-  <summary>:blue_heart: Github Stats</summary>
+  <summary>💜 Github Stats</summary>
 
   <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
+
+  <img alt="anniewu2303's Top Languages" src="https://github-readme-stats.anniewu2303.vercel.app/api/top-langs?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:purple_heart: Open for a Programming Dad Joke</summary>
-
+  <summary>💙 Open for a Programming Dad Joke</summary>
+  <br>
   <img alt="Programming Dad Joke Card" src="https://readme-jokes.anniewu2303.vercel.app/api" />
 
 </details>
 
 ---
 
-If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning: 
+If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
 
 <a href="https://www.buymeacoffee.com/awu2303" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
