@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://gist.github.com/anniewu2303/c5c01ee2170ec18574f94d25461c5139">
-    <img alt="Annie Wu animated svg" src="https://raw.githubusercontent.com/gist/anniewu2303/c5c01ee2170ec18574f94d25461c5139/raw/7152c0e8959bf9829416519fe38bdb795bdce36f/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
+  <a href="https://gist.github.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139">
+    <img alt="Annie Wu animated svg" src="https://raw.githubusercontent.com/gist/anniedotexe/c5c01ee2170ec18574f94d25461c5139/raw/7152c0e8959bf9829416519fe38bdb795bdce36f/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 ### Spotify Now Playing 🎧
 
-[<img src="https://novatorem.anniewu2303.vercel.app/api/spotify" alt="anniewu2303's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
+[<img src="https://novatorem.anniewu2303.vercel.app/api/spotify" alt="anniedotexe's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
 
 ### Languages and Technologies
 
@@ -57,10 +57,6 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-0B0D0F?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
-![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom](http://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Adobe%20Illustrator-FC8F30?style=flat&logo=adobe-illustrator&logoColor=ffffff)
-
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
@@ -69,9 +65,9 @@
 <details>
   <summary>💜 Github Stats</summary>
 
-  <img alt="anniewu2303's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
+  <img alt="anniedotexe's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
-  <img alt="anniewu2303's Top Languages" src="https://github-readme-stats.anniewu2303.vercel.app/api/top-langs?username=anniewu2303&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
+  <img alt="anniedotexe's Top Languages" src="https://github-readme-stats.anniewu2303.vercel.app/api/top-langs?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
 </details>
 
