@@ -38,7 +38,7 @@
 
 ### Spotify Now Playing 🎧
 
-[<img src="https://novatorem.anniewu2303.vercel.app/api/spotify" alt="anniedotexe's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
+[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="anniedotexe's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
 
 ### Languages and Technologies
 
