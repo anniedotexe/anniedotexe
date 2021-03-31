@@ -67,6 +67,8 @@
 
   <img alt="anniedotexe's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
+  <br>
+
   <img alt="anniedotexe's Top Languages" src="https://github-readme-stats.anniewu2303.vercel.app/api/top-langs?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
 </details>
