@@ -65,18 +65,18 @@
 <details>
   <summary>💜 Github Stats</summary>
 
-  <img alt="anniedotexe's Github Stats" src="https://github-readme-stats.anniewu2303.vercel.app/api?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
+<img alt="anniedotexe's Github Stats" src="https://github-readme-stats-beryl-three.vercel.app/api?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
   <br>
 
-  <img alt="anniedotexe's Top Languages" src="https://github-readme-stats.anniewu2303.vercel.app/api/top-langs?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
+  <img alt="anniedotexe's Top Languages" src="https://github-readme-stats-beryl-three.vercel.app/api/top-langs?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
 
 </details>
 
 <details>
   <summary>💙 Open for a Programming Dad Joke</summary>
   <br>
-  <img alt="Programming Dad Joke Card" src="https://readme-jokes.anniewu2303.vercel.app/api" />
+  <img alt="Programming Dad Joke Card" src="https://readme-jokes-seven.vercel.app/api" />
 
 </details>
 
