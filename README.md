@@ -63,6 +63,9 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter + Discord - Interactive Mobile UI Concept](https://dev.to/anniedotexe/twitter-discord-interactive-mobile-ui-concept-3d4)
+- [nevertheless, annie coded  👩‍💻](https://dev.to/anniedotexe/nevertheless-annie-coded-351f)
+- [Finally Created My Personal Website](https://dev.to/anniedotexe/finally-created-my-personal-website-2n6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
