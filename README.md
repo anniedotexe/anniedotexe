@@ -28,13 +28,13 @@
   </a>
 </p>
 
-- :mortar_board: Recent graduate with **B.S. in Computer Science**
-- :computer: Currently working on frontend dev things
-- :seedling: Currently learning **Python** and **frontend**
-- :speech_balloon: Talk to me about nature, street, and urban **photography** :camera:
-- :crown: Pronouns: [she/her](https://www.mypronouns.org/she-her)
-- :game_die: Fun fact: I animated the svg at the top of this page with pure CSS
-- :palm_tree: Check out my personal website **[anniew.xyz](https://anniew.xyz/)**
+- 🎓 Recent graduate with **B.S. in Computer Science**
+- 💻 Currently working on frontend dev things
+- 🌱 Currently learning **Python** and **frontend**
+- 💬 Talk to me about nature, street, and urban **photography** :camera:
+- 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
+- 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
+- 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
 
 ### Spotify Now Playing 🎧
 
@@ -59,6 +59,11 @@
 
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
