@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: 
-    - cron: '0 18 * * 0' # Runs at 6pm on Sunday
+    - cron: '0 8 * * *' # Runs at 8am on Sunday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
