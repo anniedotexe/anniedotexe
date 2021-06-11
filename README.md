@@ -30,7 +30,7 @@
 
 - 🎓 Recent graduate with **B.S. in Computer Science**
 - 💻 Currently working on frontend dev things
-- 🌱 Currently learning **Python** and **frontend**
+- 🌱 Currently learning **Python** and **web development**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
@@ -56,6 +56,7 @@
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-0B0D0F?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=ffffff)
 
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
