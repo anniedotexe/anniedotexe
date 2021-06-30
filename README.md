@@ -28,9 +28,9 @@
   </a>
 </p>
 
-- 🎓 Recent graduate with **B.S. in Computer Science**
-- 💻 Currently working on frontend dev things
-- 🌱 Currently learning **Python** and **frontend**
+- 🎓 May 2020 - **B.S. in Computer Science**
+- 💻 Currently working on frontend/fullstack projects
+- 🌱 Currently learning **python** and **full-stack dev**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
@@ -44,20 +44,22 @@
 
 ![Java](http://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
-![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat&logo=apache-maven&logoColor=ffffff)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=ffffff)
+![React JS](https://img.shields.io/badge/-ReactJS-61DBFB?style=flat&logo=react&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-343A40?style=flat&logo=markdown&logoColor=ffffff)
+
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-232F3E?style=flat&logo=google-cloud&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=flat&logo=firebase&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/-Netlify-00AD9F?style=flat&logo=netlify&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff)
-
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-0B0D0F?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-
-![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
+![MS Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
 ### Latest Blog Posts
