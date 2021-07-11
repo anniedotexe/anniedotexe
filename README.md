@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gist.github.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139">
-    <img alt="Annie Wu animated svg" src="https://raw.githubusercontent.com/gist/anniedotexe/c5c01ee2170ec18574f94d25461c5139/raw/7152c0e8959bf9829416519fe38bdb795bdce36f/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img alt="Annie Wu animated svg" src="https://gist.githubusercontent.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139/raw/503d2c23c33e3aa3f41e6800e86db0476470dcee/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
 
@@ -68,9 +68,10 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Simple Music Player UI](https://dev.to/anniedotexe/simple-music-player-ui-4nn1)
 - [Twitter + Discord - Interactive Mobile UI Concept](https://dev.to/anniedotexe/twitter-discord-interactive-mobile-ui-concept-3d4)
-- [nevertheless, annie coded  👩‍💻](https://dev.to/anniedotexe/nevertheless-annie-coded-351f)
+- [nevertheless, annie coded 👩‍💻](https://dev.to/anniedotexe/nevertheless-annie-coded-351f)
 - [Finally Created My Portfolio Website](https://dev.to/anniedotexe/finally-created-my-personal-website-2n6p)
 <!-- BLOG-POST-LIST:END -->
 
