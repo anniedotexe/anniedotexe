@@ -30,10 +30,11 @@
 
 - 🎓 May 2020 - **B.S. in Computer Science**
 - 💻 Currently working on frontend/fullstack projects
-- 🌱 Currently learning **fullstack dev**
+- 🌱 Currently learning **front-end/full-stack dev**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
+- ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
 - 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
 
 ### Spotify Now Playing 🎧
