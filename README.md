@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/anniewu2303/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/anniedotexe"> 
-    <img alt="Follow on DEV" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white" />
+  <a href="https://codepen.io/anniedotexe/"> 
+    <img alt="Follow on CodePen" src="https://img.shields.io/badge/-codepen-0A0A0A?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   <a href="https://twitter.com/anniedotexe"> 
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -69,9 +69,10 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Simple Music Player UI](https://dev.to/anniedotexe/simple-music-player-ui-4nn1)
 - [Twitter + Discord - Interactive Mobile UI Concept](https://dev.to/anniedotexe/twitter-discord-interactive-mobile-ui-concept-3d4)
-- [nevertheless, annie coded  👩‍💻](https://dev.to/anniedotexe/nevertheless-annie-coded-351f)
+- [nevertheless, annie coded 👩‍💻](https://dev.to/anniedotexe/nevertheless-annie-coded-351f)
 - [Finally Created My Portfolio Website](https://dev.to/anniedotexe/finally-created-my-personal-website-2n6p)
 <!-- BLOG-POST-LIST:END -->
 
