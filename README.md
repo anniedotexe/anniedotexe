@@ -69,11 +69,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Motherland: Fort Salem Pentagram Sticker with CSS and SVG (CodePen Design)](https://dev.to/anniedotexe/motherland-fort-salem-pentagram-sticker-with-css-and-svg-codepen-3mpl)
+- [DailyUI #1 - Sign Up (CodePen)](https://dev.to/anniedotexe/dailyui-1-sign-up-flg)
+- [Motherland: Fort Salem Pentagram Sticker with CSS and SVG (CodePen)](https://dev.to/anniedotexe/motherland-fort-salem-pentagram-sticker-with-css-and-svg-codepen-3mpl)
 - [Admit One Ticket - SOUR Prom (CodePen challenge)](https://dev.to/anniedotexe/admit-one-ticket-sour-prom-codepen-challenge-1idm)
 - [Simple Music Player UI](https://dev.to/anniedotexe/simple-music-player-ui-4nn1)
 - [Twitter + Discord - Interactive Mobile UI Concept](https://dev.to/anniedotexe/twitter-discord-interactive-mobile-ui-concept-3d4)
-- [nevertheless, annie coded  👩‍💻](https://dev.to/anniedotexe/nevertheless-annie-coded-351f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
