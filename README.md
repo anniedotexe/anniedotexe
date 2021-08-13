@@ -29,8 +29,8 @@
 </p>
 
 - 🎓 May 2020 - **B.S. in Computer Science**
-- 💻 Currently working on frontend/fullstack projects
-- 🌱 Currently learning **front-end/full-stack dev**
+- 💻 Currently working on frontend projects
+- 🌱 Currently learning **front-end dev / UI/UX design**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
@@ -66,7 +66,7 @@
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 
-### Latest Blog Posts
+### Latest dev.to Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
