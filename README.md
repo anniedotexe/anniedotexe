@@ -29,7 +29,7 @@
 </p>
 
 - 🎓 May 2020 - **B.S. in Computer Science**
-- 💻 Currently working on frontend projects
+- 💻 Currently working on **[DailyUI Challenges](https://anniedotexe.notion.site/anniedotexe-s-DailyUI-Challenge-Archive-f71bd45f52624500bc3e3585a9fddce4)**
 - 🌱 Currently learning **front-end dev / UI/UX design**
 - 💬 Talk to me about nature, street, and urban **photography** :camera:
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
