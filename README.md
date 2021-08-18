@@ -69,11 +69,11 @@
 ### Latest dev.to Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DailyUI #006 - User Profile (CodePen)](https://dev.to/anniedotexe/dailyui-006-user-profile-54a5)
 - [DailyUI #005 - App Icon (CodePen)](https://dev.to/anniedotexe/dailyui-005-app-icon-codepen-b2h)
 - [Food Truck Menu (Aug 2021 #CodePenChallenge)](https://dev.to/anniedotexe/food-truck-menu-55he)
 - [DailyUI #004 - Calculator (CodePen)](https://dev.to/anniedotexe/dailyui-004-calculator-codepen-52ec)
 - [DailyUI #003 - Landing Page (CodePen)](https://dev.to/anniedotexe/dailyui-003-landing-page-codepen-o6i)
-- [DailyUI #002 - Credit Card Payment (CodePen)](https://dev.to/anniedotexe/dailyui-002-credit-card-payment-codepen-2eaa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
