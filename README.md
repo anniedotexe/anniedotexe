@@ -36,10 +36,6 @@
 - ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
 - 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
 
-### Spotify Now Playing 🎧
-
-[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="anniedotexe's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1238868836)
-
 ### Languages and Technologies
 
 ![Java](http://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=ffffff)
@@ -76,17 +72,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<details>
-  <summary>💜 Github Stats</summary>
-
-<img alt="anniedotexe's Github Stats" src="https://github-readme-stats-beryl-three.vercel.app/api?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
-
-  <br>
-
-  <img alt="anniedotexe's Top Languages" src="https://github-readme-stats-beryl-three.vercel.app/api/top-langs?username=anniedotexe&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
-
-</details>
 
 <details>
   <summary>💙 Open for a Programming Dad Joke</summary>
