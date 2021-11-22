@@ -30,7 +30,8 @@
 
 - 🎓 May 2020 - **B.S. in Computer Science**
 - 💻 Currently working as a **Client Support Specialist @ [Popmenu](https://get.popmenu.com/)**
-- 💬 Talk to me about nature, street, and urban **photography** :camera:
+- 🌱 Currently learning **Ruby on Rails** - follow my journey [here](📷)
+- 💬 Talk to me about nature, street, and urban **photography** 📷
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
 - ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
