@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="https://gist.github.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139">
-    <img alt="Annie Wu animated svg" src="https://gist.githubusercontent.com/anniedotexe/c5c01ee2170ec18574f94d25461c5139/raw/503d2c23c33e3aa3f41e6800e86db0476470dcee/me.svg" width="75%" height=auto preserveAspectRatio="xMidYMid meet"/>
+  <a href="https://chibird.com/">
+    <img alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:anniewu2303@gmail.com"> 
-    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/anniewu2303/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
@@ -29,10 +26,10 @@
 </p>
 
 - 🎓 May 2020 - **B.S. in Computer Science**
-- 💻 Currently working as a **Client Support Specialist @ [Popmenu](https://get.popmenu.com/)**
+- 💻 Currently working as a **Quality Assurance Engineer @ [Popmenu](https://get.popmenu.com/)**
 - 💬 Talk to me about nature, street, and urban **photography** 📷
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
-- 🎲 Fun fact: I animated the svg at the top of this page with pure CSS
+- 🎲 Fun fact: I like building and modding custom mechanical keyboards 
 - ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
 - 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
 
@@ -42,7 +39,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![React JS](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-343A40?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
@@ -60,16 +56,6 @@
 ![Microsoft](http://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=ffffff)
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
-
-## Latest dev.to Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [DailyUI #006 - User Profile &lpar;CodePen&rpar;](https://dev.to/anniedotexe/dailyui-006-user-profile-54a5)
-- [DailyUI #005 - App Icon &lpar;CodePen&rpar;](https://dev.to/anniedotexe/dailyui-005-app-icon-codepen-b2h)
-- [Food Truck Menu &lpar;Aug 2021 #CodePenChallenge&rpar;](https://dev.to/anniedotexe/food-truck-menu-55he)
-- [DailyUI #004 - Calculator &lpar;CodePen&rpar;](https://dev.to/anniedotexe/dailyui-004-calculator-codepen-52ec)
-- [DailyUI #003 - Landing Page &lpar;CodePen&rpar;](https://dev.to/anniedotexe/dailyui-003-landing-page-codepen-o6i)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
