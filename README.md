@@ -39,7 +39,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
-![React JS](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-343A40?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
