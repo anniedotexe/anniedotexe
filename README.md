@@ -17,12 +17,6 @@
   <a href="https://www.instagram.com/anniedotexe/"> 
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.flickr.com/people/anniewuphotos/"> 
-    <img alt="Follow on Flickr" src="https://img.shields.io/badge/-Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/anniedotexe"> 
-    <img alt="Follow on Twitch" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
 </p>
 
 - 🎓 May 2020 - **B.S. in Computer Science**
@@ -51,12 +45,16 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-0B0D0F?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-343A40?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Salesforce CRM](https://img.shields.io/badge/-Salesforce%20CRM-21A0DF?style=for-the-badge&logo=salesforce&logoColor=ffffff)
+![Salesforce](https://img.shields.io/badge/-Datadog%20Synthetic%20Tests-632BA6?style=for-the-badge&logo=datadog&logoColor=ffffff)
 
 ![Microsoft](http://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=ffffff)
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=anniedotexe&color=1E91D6&label=PROFILE+VIEWS)
 
 <details>
   <summary>💙 Open for a Programming Dad Joke</summary>
