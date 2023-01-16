@@ -17,6 +17,9 @@
   <a href="https://www.instagram.com/anniedotexe/"> 
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://anniedotexe.medium.com/subscribe"> 
+    <img alt="Subscribe on Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />
+  </a>
 </p>
 
 - 🎓 May 2020 - **B.S. in Computer Science**
