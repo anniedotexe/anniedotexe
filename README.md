@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chibird.com/">
-    <img alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
+    <img alt="pikachu gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVjemUxdHVucXZxZzIxdXptbnNvY3FldGdnbWxmY3RxbHRtejM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/slVWEctHZKvWU/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
   </a>
 </p>
 
@@ -16,9 +16,6 @@
   </a>
   <a href="https://www.instagram.com/anniedotexe/"> 
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://anniedotexe.medium.com/subscribe"> 
-    <img alt="Subscribe on Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />
   </a>
 </p>
 
