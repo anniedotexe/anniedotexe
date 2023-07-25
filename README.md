@@ -4,6 +4,8 @@
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=24&duration=6000&pause=1500&center=true&vCenter=true&width=1000&lines=Error+404+-+Annie+Not+Found)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anniewu2303/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
