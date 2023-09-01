@@ -29,7 +29,7 @@
 - ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
 - 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
 
-## Languages and Technologies
+<!-- ## Languages and Technologies
 
 ![Java](http://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -52,7 +52,7 @@
 
 ![Microsoft](http://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=ffffff)
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff) -->
 
 ---
 
