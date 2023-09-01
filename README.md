@@ -23,7 +23,7 @@
 
 - 🎓 May 2020 - **B.S. in Computer Science**
 - 💻 Currently working as a **Quality Assurance Engineer @ [Popmenu](https://get.popmenu.com/)**
-- 💬 Talk to me about nature and urban **photography** 📷
+- 💬 Talk to me about **photography** 📷
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I like building and modding custom mechanical keyboards 
 - ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
