@@ -22,11 +22,10 @@
 </p>
 
 - 🎓 May 2020 - **B.S. in Computer Science**
-- 💻 Currently working as a **Quality Assurance Engineer @ [Popmenu](https://get.popmenu.com/)**
+- 💻 Currently working as a **Quality Assurance Engineer** in restaurant tech
 - 💬 Talk to me about **photography** 📷
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🎲 Fun fact: I like building and modding custom mechanical keyboards 
-- ⭐ Social Media: [linktree](https://linktr.ee/anniedotexe)
 - 🌴 Check out my website **[anniew.xyz](https://anniew.xyz/)**
 
 <!-- ## Languages and Technologies
