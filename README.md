@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://chibird.com/">
-    <img alt="pikachu gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVjemUxdHVucXZxZzIxdXptbnNvY3FldGdnbWxmY3RxbHRtejM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/slVWEctHZKvWU/giphy.gif" width="50%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=24&duration=6000&pause=1500&center=true&vCenter=true&width=1000&lines=Error+404+-+Annie+Not+Found)](https://git.io/typing-svg)
 
 <p align="center">
