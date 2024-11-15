@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🎓 May 2020 - **B.S. in Computer Science**
+- 🎓 **B.S. in Computer Science**
 - 💻 Currently working as a **Quality Assurance Engineer** in restaurant tech
 - 💬 Talk to me about **photography** 📷
 - 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
